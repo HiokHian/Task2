@@ -1,0 +1,2 @@
+pypublish
+-DCATKIN_DEVEL_PREFIX=/home/hiokhian/Task2Final/devel -DCMAKE_INSTALL_PREFIX=/home/hiokhian/Task2Final/install -G Unix Makefiles

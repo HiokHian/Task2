@@ -1,0 +1,8 @@
+prefix=/home/hiokhian/Task2Final/devel
+
+Name: pypublish
+Description: Description of pypublish
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
